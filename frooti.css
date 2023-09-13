@@ -1,0 +1,126 @@
+a{
+  cursor: pointer;
+  
+}
+a:hover{
+  color: red;
+}
+li:hover{
+  color: red;
+}
+.container{
+  width: 100%;
+  height: 100%;
+}
+body{
+  margin: 0;
+  padding: 0;
+}
+.navbar-header{
+background-color: #0a0b27;
+height: 70px;
+width: 100%;
+position: fixed;
+}
+.logo{
+  width: 20%;
+  height: 70px;
+  padding-top: 25px;
+  padding-left: 25px;
+  float: left;
+  cursor: pointer;
+  
+  
+}
+.banner{
+  height: 722px;
+  width: 100%;
+  
+}
+.top-nav{
+  margin-left: 50%;
+}
+.second-portn{
+  width: 100%;
+  height: 1370px;
+  display: flex;
+}
+.txt-img{
+  width: 50%;
+  height: 1370px;
+  background-color: rgb(240, 145, 48);
+  text-align: center;
+}
+.prgrph{
+  width: 50%;
+  height: 1370px;
+  font-family: Meriva, sans-serif;
+  font-size: 24px;
+
+
+}
+.bnr{
+  width: 100%;
+}
+.text{
+  padding: 120px;
+}
+p{
+  font-style: "merivaregular";
+  line-height: 1.2;
+}
+.footer{
+  display: flex;
+  height: 236px;
+  width: 100%;
+  margin-top: 30px;
+  color: #0a0b27;
+
+}
+.f1{
+  height: 100%;
+  width: 33.3%;
+  font-size: 15px;
+  font-weight: 200;
+  margin-left: 70px;
+}
+.f2{
+  height: 100%;
+  width: 33.3%;
+  font-size: 15px;
+  font-weight: 200;
+}
+.f3{
+  height: 100%;
+  width: 33.3%;
+  font-weight: 200;
+  font-size: 15px;
+}
+.bottle{
+  height: 722px;
+}
+a{
+  text-decoration: none;
+  color:  #0a0b27;
+  font-weight: bold;
+}
+h1{
+  font-size: 80px;
+  font-weight: 800px;
+  font-family: "EksellDisplayWeb-Small";
+  margin-top: -360px;
+  color: white;
+}
+.nav-bar{
+  display: inline-block;
+  display: flex;
+  color: white;
+  justify-content:space-around;
+  margin-top: 25px;
+  margin-right: 10px;
+  text-decoration: none;
+  list-style: none;
+  font-size: 18px;
+  cursor: pointer;
+  
+}
